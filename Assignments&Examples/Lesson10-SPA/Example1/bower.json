@@ -1,0 +1,18 @@
+{
+  "name": "seedwithnode",
+  "version": "0.0.0",
+  "authors": [
+    "rupi9191 <rupi.9191@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3"
+  }
+}
